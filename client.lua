@@ -199,8 +199,8 @@ function drawDxScoreboard()
     dxDrawText('TOP 10', posX, posY, posX + width - 10, posY + h_height, whitecolor, 1, "default-bold", "center", "center")
     dxDrawRectangle(posX, posY + 30, width, 270, scoreboardBg)
     if (not userShotInUntieRound) then
-        dxDrawImage(posX - 50, posY + 30, 30, 270, "heatbar.png", 0, 0, 0)
-        dxDrawImage(posX - 112, posY + 30 + heatbarRange, 60, 30, "arrow.png", 0, 0, 0)
+        dxDrawImage(posX - 50, posY + 30, 30, 270, "images/heatbar.png", 0, 0, 0)
+        dxDrawImage(posX - 112, posY + 30 + heatbarRange, 60, 30, "images/arrow.png", 0, 0, 0)
     end
     if (not controlsOff) then
         for i, v in pairs(controls) do

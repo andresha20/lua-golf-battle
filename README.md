@@ -14,6 +14,7 @@ Golf-based minigame developed on LUA.
 4. Fully developed from scratch by Andrés Henao Alzate.
 5. No frameworks.
 6. Hosts is short for "people hosting the event".
+7. Handles both CLIENT and SERVER.
 
 # ABOUT:
 
