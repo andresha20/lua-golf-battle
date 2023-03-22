@@ -18,7 +18,7 @@ Golf-based minigame developed on LUA.
 
 # ABOUT:
 
-There are tooltips for almost everything since some people fail to understand the simplest thing.
+There are tooltips for everything.
 Custom sounds.
 Hosts can use custom maps and build custom courses as they choose.
 Hosts can place as many holes as they want. Every hole counts as a round. 2 holes = 2 rounds.
